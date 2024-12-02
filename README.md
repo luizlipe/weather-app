@@ -19,7 +19,7 @@ WeatherInfo é um projeto simples desenvolvido em JavaScript que permite ao usu�
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/luizlipe/weatherinfo.git
+   git clone https://github.com/luizlipe/weather-app.git
    ```
 
 2. Navegue até o diretório do projeto:
